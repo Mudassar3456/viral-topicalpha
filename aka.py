@@ -20,9 +20,9 @@ keywords = [
 "Better English Conversations", "English conversation for beginners", "How to speak English confidently", "English speaking tips", "Learn to speak English fast", 
 "Practice English speaking daily", "English speaking in 30 days", "Learn English easily", "Improve spoken English", 
 "Zero to fluent in English", "English vocabulary with meaning", "English for beginners", 
-"How to learn English at home", "English tenses made easy", ""English grammar basics", 
-"Best way to learn English", "English listening practice", "Daily English words", ""English grammar basics", 
-""English grammar basics","How to think in English","English speaking without fear","English for job interview","English for travel","Learn English in 10 minutes a day"
+"How to learn English at home", "English tenses made easy", "English grammar basics", 
+"Best way to learn English", "English listening practice", "Daily English words", 
+"English grammar basics","How to think in English","English speaking without fear","English for job interview","English for travel","Learn English in 10 minutes a day"
 ]
 
 # Fetch Data Button
